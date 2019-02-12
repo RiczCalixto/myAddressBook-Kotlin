@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+MERGED from [com.android.support:design:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6622d4e0a3befa3e3e9773e3cdabad93\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f7507ede5d0c79be7cb8ed9407295d8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a272d0930a4c774d4b355a54f78b0346\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\af46b3a4ea550b26f8da1ca1891a3a03\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\0f0856dfc434d9deea798885058c7bd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f1c2de18b610326492c81840181356ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\e01c250eb97ab9fbe83c4dc3fe69993d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\343768c56d2b2a9dde661b440993289c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a68d15dbd8d17fca4745846925a28060\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fc0d0743c75e9e320cd443c78b5fcb45\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c24c9fec6e752308ff10659d784b8c35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9cd664295e062edc5d1eca078672c320\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2ade2ca7832f2231f8a8fb5f6955fb1c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19f0e85b26d1ad19e45c0ff71dc47d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fdc3a8aaa2a849ab19e8add27e154d43\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d0ce8243c9cc4d17557936fd760a25da\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e31209c23e78f67786a6e40b35a937\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+	package
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:1-39:12
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:20:5-37:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a272d0930a4c774d4b355a54f78b0346\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a272d0930a4c774d4b355a54f78b0346\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.myaddressbook.ContactsActivity
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:28:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6622d4e0a3befa3e3e9773e3cdabad93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\6622d4e0a3befa3e3e9773e3cdabad93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f7507ede5d0c79be7cb8ed9407295d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\f7507ede5d0c79be7cb8ed9407295d8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a272d0930a4c774d4b355a54f78b0346\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a272d0930a4c774d4b355a54f78b0346\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\af46b3a4ea550b26f8da1ca1891a3a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\af46b3a4ea550b26f8da1ca1891a3a03\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\0f0856dfc434d9deea798885058c7bd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\0f0856dfc434d9deea798885058c7bd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f1c2de18b610326492c81840181356ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\f1c2de18b610326492c81840181356ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\e01c250eb97ab9fbe83c4dc3fe69993d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.0.aar\e01c250eb97ab9fbe83c4dc3fe69993d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\343768c56d2b2a9dde661b440993289c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\343768c56d2b2a9dde661b440993289c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a68d15dbd8d17fca4745846925a28060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\a68d15dbd8d17fca4745846925a28060\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fc0d0743c75e9e320cd443c78b5fcb45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\fc0d0743c75e9e320cd443c78b5fcb45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c24c9fec6e752308ff10659d784b8c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\transition-27.1.0.aar\c24c9fec6e752308ff10659d784b8c35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9cd664295e062edc5d1eca078672c320\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\9cd664295e062edc5d1eca078672c320\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2ade2ca7832f2231f8a8fb5f6955fb1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2ade2ca7832f2231f8a8fb5f6955fb1c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19f0e85b26d1ad19e45c0ff71dc47d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e19f0e85b26d1ad19e45c0ff71dc47d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fdc3a8aaa2a849ab19e8add27e154d43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fdc3a8aaa2a849ab19e8add27e154d43\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d0ce8243c9cc4d17557936fd760a25da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d0ce8243c9cc4d17557936fd760a25da\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e31209c23e78f67786a6e40b35a937\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mecia\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\32e31209c23e78f67786a6e40b35a937\AndroidManifest.xml:20:5-44
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		ADDED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml
+		INJECTED from C:\MobDevProjects\CodeLabJavaToKotlin\android-using-kotlin-master\MyAddressBook-final\app\src\main\AndroidManifest.xml

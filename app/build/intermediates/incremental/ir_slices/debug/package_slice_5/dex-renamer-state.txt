@@ -1,0 +1,4 @@
+#Tue Feb 12 16:07:21 BRST 2019
+base.0=C\:\\MobDevProjects\\CodeLabJavaToKotlin\\android-using-kotlin-master\\MyAddressBook-final\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
